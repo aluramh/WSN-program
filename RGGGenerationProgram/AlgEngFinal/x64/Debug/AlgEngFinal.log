@@ -1,0 +1,11 @@
+﻿Build started 12/15/2015 11:13:44 AM.
+     1>Project "C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\AlgEngFinal\AlgEngFinal.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\x64\Debug\AlgEngFinal.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\x64\Debug\AlgEngFinal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\x64\Debug\AlgEngFinal.lib" /MACHINE:X64 x64\Debug\Source.obj
+         LINK : C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\x64\Debug\AlgEngFinal.exe not found or not built by the last incremental link; performing full link
+         AlgEngFinal.vcxproj -> C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\x64\Debug\AlgEngFinal.exe
+     1>Done Building Project "C:\Users\Alex\Dropbox\Escuela\9no Semestre\Algorithm Engineering\Final Project\Program files\AlgEngFinal\AlgEngFinal\AlgEngFinal.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.48
